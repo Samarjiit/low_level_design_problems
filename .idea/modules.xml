@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract factor design pattern/Abstract factor design pattern.iml" filepath="$PROJECT_DIR$/Abstract factor design pattern/Abstract factor design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter design pattern/Adapter design pattern.iml" filepath="$PROJECT_DIR$/Adapter design pattern/Adapter design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge Design Pattern/Bridge Design Pattern.iml" filepath="$PROJECT_DIR$/Bridge Design Pattern/Bridge Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder design pattern/Builder design pattern.iml" filepath="$PROJECT_DIR$/Builder design pattern/Builder design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain of responsibility/Chain of responsibility.iml" filepath="$PROJECT_DIR$/Chain of responsibility/Chain of responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Chess-Low-Level-Design/Chess-Low-Level-Design.iml" filepath="$PROJECT_DIR$/problems/Chess-Low-Level-Design/Chess-Low-Level-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite design pattern/Composite design pattern.iml" filepath="$PROJECT_DIR$/Composite design pattern/Composite design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator design pattern/Decorator design pattern.iml" filepath="$PROJECT_DIR$/Decorator design pattern/Decorator design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Elevator-Low-level-Design/Elevator-Low-level-Design.iml" filepath="$PROJECT_DIR$/problems/Elevator-Low-level-Design/Elevator-Low-level-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade design pattern/Facade design pattern.iml" filepath="$PROJECT_DIR$/Facade design pattern/Facade design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRCTC-Low-Level-design/IRCTC-Low-Level-design.iml" filepath="$PROJECT_DIR$/IRCTC-Low-Level-design/IRCTC-Low-Level-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRCTC-Low-Level-design/JAVA/IRCTC-Low-Level-design2.iml" filepath="$PROJECT_DIR$/IRCTC-Low-Level-design/JAVA/IRCTC-Low-Level-design2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator design pattern/Iterator design pattern.iml" filepath="$PROJECT_DIR$/Iterator design pattern/Iterator design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Meeting-Scheduler-Low-Level-Design/Meeting-Scheduler-Low-Level-Design.iml" filepath="$PROJECT_DIR$/problems/Meeting-Scheduler-Low-Level-Design/Meeting-Scheduler-Low-Level-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRCTC-Low-Level-design/Multi-Threading Demos/Multi-Threading Demos.iml" filepath="$PROJECT_DIR$/IRCTC-Low-Level-design/Multi-Threading Demos/Multi-Threading Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer design pattern/Observer design pattern.iml" filepath="$PROJECT_DIR$/Observer design pattern/Observer design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy Design pattern/Proxy Design pattern.iml" filepath="$PROJECT_DIR$/Proxy Design pattern/Proxy Design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/Recommendation-System-Low-Level-Design.iml" filepath="$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/Recommendation-System-Low-Level-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/RecommendationSystem_coding_practice/RecommendationSystem_coding_practice.iml" filepath="$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/RecommendationSystem_coding_practice/RecommendationSystem_coding_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy and factory pattern/Strategy and factory pattern.iml" filepath="$PROJECT_DIR$/Strategy and factory pattern/Strategy and factory pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy pattern/Strategy pattern.iml" filepath="$PROJECT_DIR$/Strategy pattern/Strategy pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template design pattern/Template design pattern.iml" filepath="$PROJECT_DIR$/Template design pattern/Template design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/problems/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command design pattern/command design pattern.iml" filepath="$PROJECT_DIR$/command design pattern/command design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryMethodDesign/factoryMethodDesign.iml" filepath="$PROJECT_DIR$/factoryMethodDesign/factoryMethodDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld_practice.iml" filepath="$PROJECT_DIR$/lld_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/problems.iml" filepath="$PROJECT_DIR$/problems/problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype design/prototype design.iml" filepath="$PROJECT_DIR$/prototype design/prototype design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple factory design pattern/simple factory design pattern.iml" filepath="$PROJECT_DIR$/simple factory design pattern/simple factory design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton design pattern/singleton design pattern.iml" filepath="$PROJECT_DIR$/singleton design pattern/singleton design pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/untitled/untitled.iml" filepath="$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

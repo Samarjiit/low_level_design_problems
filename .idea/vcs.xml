@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/IRCTC-Low-Level-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/problems/Chess-Low-Level-Design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/problems/Elevator-Low-level-Design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/problems/Meeting-Scheduler-Low-Level-Design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/problems/Recommendation-System-Low-Level-Design" vcs="Git" />
+  </component>
+</project>
